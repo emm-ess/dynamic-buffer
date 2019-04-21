@@ -1,0 +1,19 @@
+{
+  "name": "dynamic-buffer",
+  "version": "0.0.1",
+  "description": "A simple wrapper arround Buffer making them able to grow",
+  "main": "dynamicBuffer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emm-ess/dynamic-buffer.git"
+  },
+  "author": "Marten Schälicke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emm-ess/dynamic-buffer/issues"
+  },
+  "homepage": "https://github.com/emm-ess/dynamic-buffer#readme"
+}
